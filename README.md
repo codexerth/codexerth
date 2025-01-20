@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi 👋 My name is Chanarat Thongin
+I'm a Computer Science undergraduate majoring in Computer Science at the Faculty of Science and Technology, Thammasat University, Rangsit Campus, Thailand. 
 
-<!--
-**ChanaratThongin/ChanaratThongin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about coding, web development, and exploring cutting-edge technologies. Currently, I am honing my skills in front-end and back-end web development, as well as experimenting with modern frameworks and tools.
 
-Here are some ideas to get you started:
+### 💻 Skills & Interests
+- 🌐 Web Development: HTML, CSS, JavaScript, TypeScript
+- 💾 Back-End Development: JavaScript, TypeScript, Java, Kotlin, Golang, Python
+- 🎨 UX/UI Design: Figma
+- 🛠️ Tools: Git, Docker, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach Me At
+- **LinkedIn:** [Chanarat Thongin](https://www.linkedin.com/in/chanarat-thongin-6b506b348)
+- **Email:** [chanarat.tho@gmail.com](mailto:chanarat.tho@gmail.com)
+
