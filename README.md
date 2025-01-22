@@ -10,6 +10,5 @@ I am passionate about coding, web development, and exploring cutting-edge techno
 - 🛠️ Tools: Git, Docker, Postman
 
 ### 📫 Reach Me At
-- **LinkedIn:** [Chanarat Thongin](https://www.linkedin.com/in/chanarat-thongin-6b506b348)
 - **Email:** [chanarat.tho@gmail.com](mailto:chanarat.tho@gmail.com)
 
