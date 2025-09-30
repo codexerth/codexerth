@@ -7,7 +7,7 @@ I'm passionate about coding, building software, and constantly exploring new tec
 
 - 💻 I work with: JavaScript, TypeScript, Python, Kotlin, Java
 - 🚀 I'm currently exploring: Golang, Rust, AWS, GCP
-- 🛠️ Tools: Git, Figma, Docker, Postman,
+- 🛠️ Tools: Git, Figma, Docker, Postman
 - 🌱 I'm excited to learn more about: Generative AI, CI/CD Automation, Infrastructure as Code (IaC)
 - 📫 Reach Me At **Email:** [chanarat.tho@gmail.com](mailto:chanarat.tho@gmail.com)
 
