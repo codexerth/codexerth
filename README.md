@@ -5,11 +5,11 @@
 I'm passionate about coding, building software, and constantly exploring new technologies and tools.
 
 
-- 💻 I work with: JavaScript, TypeScript, Python, Kotlin, Java
-- 🚀 I'm currently exploring: Golang, Rust, AWS, GCP
+- 💻 I work with: JavaScript, TypeScript, Python, Java, Go
 - 🛠️ Tools: Git, Figma, Docker, Postman
-- 🌱 I'm excited to learn more about: Generative AI, CI/CD Automation, Infrastructure as Code (IaC)
+- 🌱 I'm excited to learn more about: Generative AI, ML/DL, Automation, IaC
 - 📫 Reach Me At **Email:** [chanarat.tho@gmail.com](mailto:chanarat.tho@gmail.com)
+- 🚀 [Portfolio Website](https://earthchx.github.io/)
 
 ## GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=earthchx&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
